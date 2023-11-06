@@ -1,4 +1,4 @@
 # AntiCreeper
-A simple Minecraft Java Edition Data Pack that can only disable Creeper Explosion
+A simple Minecraft Java Edition data package that disables Creeper Explosion and has no effect on other explosion events.
 
-![avatar](pack.png=800x800)
+![avatar](pack.png =800x800)
