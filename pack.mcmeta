@@ -1,0 +1,15 @@
+{
+	"pack": {
+		"pack_format": 18,
+		"description":[
+			{
+				"text": "AntiCreeper\n",
+				"color": "green"
+			},
+			{
+				"text": "Made by NyaShulker",
+				"color": "gold"
+			}
+		]
+	}
+}
